@@ -36,3 +36,11 @@
     max-width: 100%;
     height: auto;
 }
+
+.divider{
+    background-color: #B6B6B6;
+}
+
+#services-details{
+    background-color: #00BCD4;
+}
