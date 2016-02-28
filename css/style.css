@@ -44,21 +44,21 @@
 }
 
 #planification{
-    background-color: sandybrown;
+    background-color: #FF9800;
     padding: 10px;
     height: 550px;
     border-radius: 10px;
 }
 
 #creation{
-    background-color: indianred;
+    background-color: #03A9F4;
     padding: 10px;
     height: 550px;
     border-radius: 10px;
 }
 
 #optimisation{
-    background-color: olive;
+    background-color: #8BC34A;
     padding: 10px;
     height: 550px;
     border-radius: 10px;
