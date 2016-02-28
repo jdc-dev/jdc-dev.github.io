@@ -32,15 +32,14 @@
     height: auto;
 }
 
-.feature img{
-    margin-bottom: 15px;
-    max-width: 100%;
-    height: auto;
+.intro{
+    font-size: 17px;
 }
 
 .divider{
     background-color: #B6B6B6;
     margin-top: 35px;
+    color: white;
 }
 
 #planification{
@@ -48,6 +47,7 @@
     padding: 10px;
     height: 550px;
     border-radius: 10px;
+    margin-bottom: 5px;
 }
 
 #creation{
@@ -55,6 +55,7 @@
     padding: 10px;
     height: 550px;
     border-radius: 10px;
+    margin-bottom: 5px;
 }
 
 #optimisation{
@@ -62,9 +63,14 @@
     padding: 10px;
     height: 550px;
     border-radius: 10px;
+    margin-bottom: 5px;
 }
 
 .service{
     text-align: justify;
     font-size: 15px;
+}
+
+.contactez-moi{
+    font-size: 20px;
 }
